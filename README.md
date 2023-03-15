@@ -1,2 +1,2 @@
 # Projects
-Portafolio de Proyectos en Aprendizaje Automático y Ciencia de Datos  
+Project Portfolio in Machine Learning and Data Science 
