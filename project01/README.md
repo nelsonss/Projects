@@ -1,6 +1,6 @@
 # Introduction to Storm Events Data
 ## Storm Event Data
-Throughout this course, you’ll be using Storm Events data from the National Oceanic and Atmospheric Administration (NOAA) to practice performing data analysis techniques. 
+Throughout this project, we’ll be using Storm Events data from the National Oceanic and Atmospheric Administration (NOAA) to practice performing data analysis techniques. 
 
 This reading briefly describes key elements of the data sets and some insight into how events are recorded. It is intended to help you better understand the data if you’re interested in exploring its contents further. Refer to the links above to find more detailed information about the data.
 
