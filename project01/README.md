@@ -7,9 +7,7 @@ This reading briefly describes key elements of the data sets and some insight in
 The Storm Events data is useful for real-world applications such as:
 
 Predicting future costs due to weather for disaster planning
-
 Allocating resources to respond to natural disaster 
-
 Calculating insurance cost for weather types or locations
 
 For the goal of learning exploratory data analysis, the data is useful because we’ve all experienced weather! No domain knowledge is needed to understand that floods can cause damage. Additionally, the file: 
