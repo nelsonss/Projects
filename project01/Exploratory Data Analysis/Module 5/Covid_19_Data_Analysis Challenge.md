@@ -11,7 +11,7 @@ Here’s what to do:
 
 1. Download and unzip the live script containing instructions and code to help you get started.
 
-2. Watch the introductory video. The video will guide you through setting up a MATLAB project to access the most up-to-date COVID-19 data.
+2. Watch the introductory video(https://youtu.be/nfAzUqpGpug). The video will guide you through setting up a MATLAB project to access the most up-to-date COVID-19 data.
 
 3. Perform your analysis and email your final report as a PDF to matlab-challenge@groups.mathworks.com
 
