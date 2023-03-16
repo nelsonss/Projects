@@ -37,3 +37,13 @@ Here, peers from a wide variety of backgrounds will be reviewing your work. You 
 NOAA creates reports for major weather events to present the atmospheric conditions leading to the event and the impact on the population. The link below points to the NOAA report for Hurricane Harvey published in January of 2018 (updated in May of 2018). The report contains nine tables and twenty-two figures. You do not need to include much detail in your report. This is a nice example of using Exploratory Data Analysis and multiple data sources to answer the question “What Happened?” 
 
 NOAA Harvey Report  
+
+## How Companies are using Data Science
+Companies are using data science in a wide range of applications such as healthcare, energy production, and automotive.  Read the user stories below 
+
+HEALTH SERVICES: Battelle Neural Bypass Technology Restores Movement to a Paralyzed Man’s Arm and Hand    
+AUTOMOTIVE: Detecting Oversteering in BMW Automobiles with Machine Learning
+ENERGY IN BUILDINGS: BuildingIQ Develops Proactive Algorithms for HVAC Energy Optimization in Large-Scale Buildings    
+PREDICTIVE MAINTENANCE: Mondi Implements Statistics-Based Health Monitoring and Predictive Maintenance for Manufacturing Processes with Machine Learning     
+ENERGY PRODUCTION: Gas Natural Fenosa Predicts Energy Supply and Demand
+OIL AND GAS: Baker Hughes Develops Predictive Maintenance Software for Gas and Oil Extraction Equipment Using Data Analytics and Machine Learning     
